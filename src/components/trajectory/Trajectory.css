@@ -1,0 +1,33 @@
+.trajectory__content{
+    padding: 1rem;
+   /* border: 1px solid red;*/
+}
+
+.trajectory__title{
+    font-size: 2rem;
+    margin: 0;
+    color: var(--secondary);
+}
+.trajectory__paragraph{
+    text-align: center;
+    font-weight: 400;
+}
+
+
+
+@media(width>=768px){
+    
+    .trajectory{
+      /*  border: 1px solid orange;*/
+        max-width: 1400px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    
+
+}
