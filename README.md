@@ -1,5 +1,5 @@
 
-![Uploading portafoliopage2.png…]()
+![portafoliopage2](https://github.com/user-attachments/assets/7815c995-adbc-43cd-bb46-6aad8a65590a)
 
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
