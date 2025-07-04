@@ -1,20 +1,22 @@
-import Header from "./components/header/Header";
-import About from "./components/about/About";
-import Project from "./components/project/Project";
-import Trajectory from "./components/trajectory/Trajectory";
+import { BrowserRouter, Route, Routes } from "react-router";
+import Landing from "./pages/Landing";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
+import Dashboard from "./pages/Dashboard";
 
 function App() {
 
   return (
-    <>
-      <Header/>
-      <About/>
-      <Project/>
-      <Trajectory/>
+    <BrowserRouter>
+      <Routes>
+        <Route index element={<Landing />} />
+        <Route path="login" element={<Login />} />
+        <Route path="register" element={<Register />} />
+        <Route path="dashboard" element={<Dashboard />} />
+      </Routes>
+    </BrowserRouter>
 
-    </>
   )
 }
 
 export default App
-

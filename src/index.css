@@ -4,8 +4,8 @@
 /* Variables */
 :root{
     --primary:#ffffffac;
-    --secondary: #379eec;
-    --portfolio: #7bc4d669;
+    --secondary: #4d62eb; 
+    --portfolio: #63a4ee69;
 }
 
 
@@ -19,7 +19,7 @@
 
 /* styles to BODY  */
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 	line-height: 1.5;
 }
 
