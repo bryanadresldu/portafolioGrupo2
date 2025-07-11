@@ -1,5 +1,5 @@
 
-![portafoliopage](https://github.com/user-attachments/assets/4b6cc2fd-bdf0-442c-8c5d-49eebd581497)
+![portafoliopage2](https://github.com/user-attachments/assets/7935969e-7dc8-40b4-9e7e-892c7d67aeb4)
 
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
