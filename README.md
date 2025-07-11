@@ -1,5 +1,5 @@
 
-![portafoliopage2](https://github.com/user-attachments/assets/7935969e-7dc8-40b4-9e7e-892c7d67aeb4)
+<img width="1920" height="3080" alt="capturapagina" src="https://github.com/user-attachments/assets/f5a7c977-268a-437d-9845-92495cd66d3c" />
 
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
