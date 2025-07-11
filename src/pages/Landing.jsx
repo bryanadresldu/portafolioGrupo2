@@ -7,10 +7,14 @@ import Footer from "../components/footer/Footer";
 const Landing = () => {
     return (
         <>
-            <Header/>
+            <div data-aos="fade-down">
+                <Header/>
+            </div>
             <About/>
             <Project/>
-            <Trajectory/>
+            <div data-aos="zoom-in" data-aos-duration="1500">
+                <Trajectory/>
+            </div>
             <Footer/>
         </>
     )

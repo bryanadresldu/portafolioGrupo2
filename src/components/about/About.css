@@ -1,5 +1,6 @@
 .about__content{
     padding: 1rem;
+
    /* border: 1px solid red;*/
 }
 
@@ -13,21 +14,33 @@
     font-weight: 400;
 }
 
+.mySwiper{
+    height: 500px;
+}
+.swiper img{
+    width: auto;
+    height: 70%;
+    object-fit: cover;
+}
+
+
 
 
 @media(width>=768px){
     
     .about{
-       /* border: 1px solid orange;*/
+        justify-content: center;
+        align-items: center;
+        text-align: center;
         max-width: 1400px;
         margin: 0 auto;
-        display: flex;
-        align-items: center;
-        justify-content: center;
         gap: 1rem;
-        text-align: center;
+      
     }
-    
+    .about__paragraph {
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
     
 
 }
